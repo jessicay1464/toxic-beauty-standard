@@ -2837,7 +2837,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #000;
-  --bs-btn-bg: #e6a756;
+  --bs-btn-bg: #f8edeb;
   --bs-btn-border-color: #e6a756;
   --bs-btn-hover-color: #000;
   --bs-btn-hover-bg: #eab46f;
@@ -2848,7 +2848,7 @@ textarea.form-control-lg {
   --bs-btn-active-border-color: #e9b067;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #000;
-  --bs-btn-disabled-bg: #e6a756;
+  --bs-btn-disabled-bg: #d0d6b5;
   --bs-btn-disabled-border-color: #e6a756;
 }
 
@@ -8027,7 +8027,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: #d88373 !important;
 }
 
 .text-secondary {
@@ -10887,7 +10887,7 @@ p {
   font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #d0d6b5;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   color: rgba(255, 255, 255, 0.7);
@@ -10909,7 +10909,7 @@ p {
 }
 
 .btn {
-  box-shadow: 0px 3px 3px 0px rgba(33, 37, 41, 0.1);
+  box-shadow: 0px 3px 3px 0px black;
 }
 
 @media (min-width: 992px) {
@@ -10948,7 +10948,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: #8c5e58;
 }
 
 .intro {
@@ -11074,12 +11074,12 @@ p {
 }
 
 .toxic {
-  color: #8c5e58;
+  color: #ee7674;
   font-weight:100;
 }
 
 .standard {
-  color: #ffcad4;
+  color: #8c5e58;
 }
 
 
