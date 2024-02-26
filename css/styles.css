@@ -10870,7 +10870,7 @@ p {
 }
 
 .bg-faded {
-  background-color: #f6e1c5;
+  background-color: #f8edeb;
 }
 
 .btn-xl {
@@ -10883,7 +10883,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: #8c5e58;
   font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-brand {
@@ -10928,7 +10928,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color: #b9baa3;
 }
 .cta .cta-inner {
   position: relative;
@@ -11074,7 +11074,7 @@ p {
 }
 
 .toxic {
-  color: #da627d;
+  color: #8c5e58;
   font-weight:100;
 }
 
