@@ -11055,7 +11055,8 @@ p {
 }
 
 #water {
-  text-align: center;
+  text-align: left;
+  /* display: inline; */
   padding: 20px 20px;
   padding-top: 20px;
 }
@@ -11063,6 +11064,7 @@ p {
 .visual {
   width: 500px;
   height: 300px;
+  /* display: inline; */
   /* border-radius: 30%; */
   padding: 5px 5px;
   /* padding-top: 20px; */
@@ -11092,4 +11094,8 @@ p {
   padding-top: 20px;
   font-size: 20px;
   color: #8c2f39;
+}
+
+.ans {
+  display: inline;
 }
