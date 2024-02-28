@@ -8027,7 +8027,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #d88373 !important;
+  color: linear-gradient(right, red , yellow);
 }
 
 .text-secondary {
@@ -11085,7 +11085,7 @@ p {
 }
 
 .standard {
-  color: #8c5e58;
+  color: #c6655f;
 }
 
 
