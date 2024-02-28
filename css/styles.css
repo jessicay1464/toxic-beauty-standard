@@ -11059,7 +11059,7 @@ p {
   /* display: inline; */
   /* padding: 20px 20px; */
   padding-top: 20px;
-  padding bottom: 5px:
+  padding-bottom: 5px;
 }
 
 .visual {
@@ -11079,8 +11079,9 @@ p {
 }
 
 .toxic {
-  color: #ee7674;
-  font-weight:100;
+  /* color: #f8edeb; */
+  color: #f8edeb;
+  /* font-weight:100; */
 }
 
 .standard {
@@ -11116,7 +11117,7 @@ p {
 .container1 {
   position: relative;
   /* text-align: center; */
-  color:#gray;
+  color: grey;
   font-size: 10px;
 }
 
